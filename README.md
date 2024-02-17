@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB4bHFjdnYxY3MwdzdtejN5eHEwcmlwamp6a2R6YnozZDJxNWV4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif)]()
+[![MasterHead]()]()
 
 <h1 align="center">Hi 👋, I'm Abdullah Ali</h1>
 <h3 align="center">Proficient MERN Stack Developer and Python expert.</h3>
