@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue" alt="" />
   </a>
 </p>
-- 🔭 I’m currently working on **Ai Powered Task Scheduler**
+- 🔭 I’m currently working on Blogging website
 
 - 🌱 I’m currently learning **React**
 
