@@ -1,7 +1,8 @@
 [![MasterHead]()]()
 
 <h1 align="center">Hi 👋, I'm Abdullah Ali</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abdullah!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&pause=1000&color=F7631C&background=0D8E1000&random=false&width=430&lines=Hi+this+is+Abdullah;I+m+A+Full+Stack+Developer+;Lets+Connect+and+Build+a+better+future+together)](https://git.io/typing-svg)
+
 <h3 align="center">Proficient MERN Stack Developer and Python expert.</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" >
 
