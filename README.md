@@ -25,15 +25,15 @@
 </p>
 - 🔭 I’m currently working on Blogging website
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning *Machine Learning*
 
-- 💬 Ask me about **Mern , Python**
+- 💬 Ask me about **Mern Stack, Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [At My website www.abdullahali.com](At My website www.abdullahali.com)
+- 👨‍💻 All of my projects details are at *https://abdullahs-portfolio.vercel.app*
 
-- 📫 How to reach me **abdullahaliquadri@gmail.com**
+- 📫 react me at *abdullahaliquadri@gmail.com*
 
-- 📄 Know about my experiences [From My Website](From My Website)
+- 📄 Know about my experiences from my website **https://abdullahs-portfolio.vercel.app**
 
 - ⚡ Fun fact **Just 17 years old**
 
