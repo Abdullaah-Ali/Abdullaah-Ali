@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue" alt="" />
   </a>
 </p>
-- 🔭 I’m currently working on Blogging website
+- 🔭 I’m currently working on Something special
 
 - 🌱 I’m currently learning *Machine Learning*
 
@@ -31,11 +31,9 @@
 
 - 👨‍💻 All of my projects details are at *https://abdullahs-portfolio.vercel.app*
 
-- 📫 react me at *abdullahaliquadri@gmail.com*
+- 📫 reach me at *abdullahaliquadri@gmail.com*
 
 - 📄 Know about my experiences from my website **https://abdullahs-portfolio.vercel.app**
-
-- ⚡ Fun fact **Just 17 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
