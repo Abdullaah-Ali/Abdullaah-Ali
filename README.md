@@ -19,7 +19,7 @@
 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/syed-abdullah-ali-4579a62a9/" target="_blank">
+<p align="left"> <a href="https://www.linkedin.com/in/syed-abdullah-ali/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue" alt="" />
   </a>
 </p>
