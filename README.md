@@ -1,4 +1,4 @@
-[![MasterHead]()]()
+[![MasterHead](banner.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Abdullah Ali</h1>
 
