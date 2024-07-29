@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdullah ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullah ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-abdullah-ali-4579a62a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syed-abdullah-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah ali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abdullah ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullah ali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@abdullahaliquad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdullahaliquad1" height="30" width="40" /></a>
 </p>
