@@ -29,11 +29,11 @@
 
 - 💬 Ask me about **Mern Stack, Python and Machine Learning**
 
-- 👨‍💻 All of my projects details are at *https://abdullahs-portfolio.vercel.app*
+- 👨‍💻 All of my projects details are at *abdullah-ali.vercel.app*
 
 - 📫 reach me at *abdullahaliquadri@gmail.com*
 
-- 📄 Know about my experiences from my website **https://abdullahs-portfolio.vercel.app**
+- 📄 Know about my experiences from my website **abdullah-ali.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
