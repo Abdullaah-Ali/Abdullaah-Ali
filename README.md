@@ -48,27 +48,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaah-ali&" alt="abdullaah-ali" /></p>
-
-
-
-
-<p align="center">
-<a href="https://github.com/Abdullaah-Ali/BlogWebappBackend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaah-ali&repo=BlogWebappBackend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Abdullaah-Ali/BlogWebappfrontend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaah-ali&repo=BlogWebappfrontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Abdullaah-Ali/AI-Powered-Task-Scheduler">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaah-ali&repo=AI-Powered-Task-Scheduler&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Abdullaah-Ali/Flask-Ecommerce-responsive">
-  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaah-ali&repo=Flask-Ecommerce-responsive&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<a href="https://github.com/Abdullaah-Ali/chatbot">
-  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaah-ali&repo=chatbot&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
