@@ -1,9 +1,6 @@
-<!-- ========================================= -->
-<!--                 BANNER                     -->
-<!-- ========================================= -->
 
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="1.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
