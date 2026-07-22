@@ -20,8 +20,7 @@
 ## 👋 About Me
 
 ```text
-Full Stack Developer passionate about building scalable web
-applications, modern SaaS products, and AI-powered solutions.
+Syed Abdullah Ali | Full Stack Developer specializing in Next.js, TypeScript, and Node.js. Experienced in building optimized web solutions and startup MVPs.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
